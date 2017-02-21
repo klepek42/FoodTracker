@@ -53,7 +53,7 @@ import UIKit
         }
         
         // Calculate the rating of the selected buttons
-        let selectedRating = index + 1;
+        let selectedRating = index + 1
         
         if selectedRating == rating {
             // If the selected star represents the current rating, reset the rating to 0.

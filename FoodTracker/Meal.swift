@@ -29,6 +29,7 @@ class Meal {
             return nil
         }
         
+        // Initialize stored properties.
         self.name = name
         self.photo = photo
         self.rating = rating
